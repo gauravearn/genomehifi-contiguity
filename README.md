@@ -1,4 +1,6 @@
-#### a conda environment yaml for the genomehifi contiguity that will allow you to perform the genomehifi contiguity analysis. to use this. you can clone the GCI from here : https://github.com/yeeus/GCI
+# genomehifi-contiguity
+
+a conda environment yaml for the genomehifi contiguity that will allow you to perform the genomehifi contiguity analysis. to use this. you can clone the GCI from here : https://github.com/yeeus/GCI
 
 ```
 conda env create -f genomehificontiguity.yml
