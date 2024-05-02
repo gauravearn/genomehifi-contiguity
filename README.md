@@ -6,7 +6,7 @@ a conda environment yaml for the genomehifi contiguity that will allow you to pe
 conda env create -f genomehificontiguity.yml
 ```
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
